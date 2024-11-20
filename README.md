@@ -1,5 +1,7 @@
 # Sobre Mim
 
+testando commit de alterações
+
 Olá! 👋 Meu nome é **Camila Souza Campagnolo**, sou uma **Engenheira de Software em formação** pela Unicesumar (EAD), com conclusão prevista para 2025. Atualmente, tenho **23 anos** e estou localizada no Brasil.
 
 ## 🚀 Experiência Profissional
